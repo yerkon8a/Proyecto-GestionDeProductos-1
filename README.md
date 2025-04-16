@@ -14,5 +14,5 @@ Se utilizo: Java Spring Boot, Hibernate, Html, Bootstrap, BD Postgres
   <img src="2.png">
 </p>
 <p align="center">
-  <img src=3.png">
+  <img src="3.png">
 </p>
